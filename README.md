@@ -1,1 +1,1 @@
-# I __love__ *REACT* **BOLD**
+# I __love__ *REACT*
